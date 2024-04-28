@@ -39,7 +39,3 @@ Dynamic cast successful.
 Derived function called.
 
 ```
-
-## Author
-
-[Abdullah Reda]
